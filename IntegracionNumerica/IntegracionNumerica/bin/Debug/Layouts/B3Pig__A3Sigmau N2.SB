@@ -1,0 +1,20 @@
+[NombreSistemaBandas]
+nombre=B3Pig__A3Sigmau N2
+
+[Intervalos]
+v1min=0
+v1max=9
+v2min=0
+v2max=9
+
+[Constantes]
+we_1=1675.355
+we_2=1411.210
+we_xe_1=13.433
+we_xe_2=12.921
+re_1=1.21252
+re_2=1.2864
+[Integracion]
+A=0.4
+B=3.5
+N=210

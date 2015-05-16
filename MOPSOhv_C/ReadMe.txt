@@ -1,0 +1,35 @@
+/*************************************************
+   FUNCTION CODE OPTIMIZATION OBJECTIVE VARIABLES
+   Kita     100  maximize (1)     2         2
+   Kursawe  200  minimize (0)     2         3
+   Deb1     300  minimize (0)     2         2
+   Deb2     350  minimize (0)     2         2
+   Deb3     400  minimize (0)     2         2
+   Fonseca2 450  minimize (0)     2         2
+   DTLZ6    500  minimize (0)     3         22
+   
+zdt1     600  minimize (0)     2         30
+   zdt2     605  minimize (0)     2         30
+   zdt3     610  minimize (0)     2         30
+   zdt4     615  minimize (0)     2         10
+   zdt6     620  minimize (0)     2         10
+   
+dtlz1    700  minimize (0)     3         
+   dtlz2    705  minimize (0)     3         
+   dtlz3    710  minimize (0)     3         
+   dtlz4    715  minimize (0)     3         
+   dtlz5    720  minimize (0)     3         
+   dtlz6    725  minimize (0)     3         
+   dtlz7    730  minimize (0)     3         22      
+
+
+       <- put yours here and in test-fun.h
+       /* Initialize your function in initialize_pop()       */
+       /* Put your function in evaluate()                    */
+       /* Put your constraints, if any, in check_constraints(...) */
+       /* See also maintain_particles() routine                   */
+/**************************************************/
+
+El programa se realizo con la herramienta CodeBlocks (licnecia libre)
+Instalar CodeBlocks. El programa se encuentra en http://www.codeblocks.org/downloads, el cual muestra las diferentes formas de instalar en varias plataformas
+En la carpeta se abre el achivo mopsohv.cpp y se compila sin problemas ya que la herramienta jala las dependencias que le hagan falta (ejemplo math.h)

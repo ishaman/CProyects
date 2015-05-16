@@ -1,0 +1,21 @@
+[NombreSistemaBandas]
+nombre=Bp3Sigmau__B3Sigmag N2
+
+[Intervalos]
+v1min=6
+v1max=9
+v2min=9
+v2max=17
+
+[Constantes]
+we_1=1465.570
+we_2=1675.355
+we_xe_1=11.323
+we_xe_2=13.433
+re_1=1.278387
+re_2=1.21252
+miu=7.500053859
+[Integracion]
+A=0.4
+B=3.5
+N=210      

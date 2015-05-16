@@ -1,0 +1,21 @@
+[NombreSistemaBandas]
+nombre=a1Sigmag__ap1Sigmau N2
+
+[Intervalos]
+v1min=10
+v1max=15
+v2min=7
+v2max=13
+
+[Constantes]
+we_1=1694.208
+we_2=1530.254
+we_xe_1=13.9491
+we_xe_2=12.0747
+re_1=1.2203
+re_2=1.2864
+miu=1.2755
+[Integracion]
+A=0.4
+B=3.5
+N=210

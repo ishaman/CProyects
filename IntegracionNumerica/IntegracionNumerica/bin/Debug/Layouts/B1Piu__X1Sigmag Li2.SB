@@ -1,0 +1,21 @@
+[NombreSistemaBandas]
+nombre=B1Piu__X1Sigmag Li2
+
+[Intervalos]
+v1min=6
+v1max=9
+v2min=11
+v2max=16
+
+[Constantes]
+we_1=269.69
+we_xe_1=2.744
+re_1=2.936
+we_2=351.43
+we_xe_2=2.592
+re_2=2.672
+miu=3.50908 
+[Integracion]
+A=0.4
+B=3.5
+N=210

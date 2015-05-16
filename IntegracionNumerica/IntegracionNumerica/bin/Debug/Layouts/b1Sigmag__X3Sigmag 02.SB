@@ -1,0 +1,19 @@
+[NombreSistemaBandas]
+nombre=b1Sigmag__X3Sigmag 02
+[Intervalos]
+v1max=9
+v1min=0
+v2max=9
+v2min=0
+[Constantes]
+we_1=1432.687
+we_2=1580.361
+we_xe_1=13.95
+we_xe_2=12.073
+re_1=1.22675
+re_2=1.20740
+miu=8.0
+[Integracion]
+A=0.4
+B=3.5
+N=210

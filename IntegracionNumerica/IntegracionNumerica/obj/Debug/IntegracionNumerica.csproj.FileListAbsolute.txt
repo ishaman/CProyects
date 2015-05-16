@@ -1,0 +1,73 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Properties.Resources.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csproj.GenerateResource.Cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.IntegracionNumerica.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Configuracion.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\splotexampledata.txt
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.FFC.resources
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe.config
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.exe
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.pdb
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\splotexampledata.txt
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.pdb
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.dll
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.dll
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.dll
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.pdb
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Configuracion.resources
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.FFC.resources
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.IntegracionNumerica.resources
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csproj.GenerateResource.Cache
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe.config
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.exe
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.pdb
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\splotexampledata.txt
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.pdb
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.dll
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.dll
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.dll
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.pdb
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csprojResolveAssemblyReference.cache
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Configuracion.resources
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.FFC.resources
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.IntegracionNumerica.resources
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Properties.Resources.resources
+D:\Trabajos\Mis Proyectos\Windows\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csproj.GenerateResource.Cache
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe.config
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.exe
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csprojResolveAssemblyReference.cache
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Configuracion.resources
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.FFC.resources
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.IntegracionNumerica.resources
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Properties.Resources.resources
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csproj.GenerateResource.Cache
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\splotexampledata.txt
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\Ionic.Zip.dll
