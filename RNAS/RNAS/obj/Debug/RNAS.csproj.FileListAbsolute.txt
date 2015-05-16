@@ -1,0 +1,32 @@
+c:\users\ivan\documents\visual studio 2012\Projects\RNAS\RNAS\bin\Debug\RNAS.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.Properties.Resources.resources
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.csproj.GenerateResource.Cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.dll.config
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.dll.config
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.dll
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\bin\Debug\RNAS.pdb
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.csproj.GenerateResource.Cache
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.dll
+D:\Documentos\Visual Studio 2012\Projects\Clases\RNAS\RNAS\obj\Debug\RNAS.pdb
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\bin\Debug\RNAS.dll.config
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\bin\Debug\RNAS.dll
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\bin\Debug\RNAS.pdb
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\obj\Debug\RNAS.csprojResolveAssemblyReference.cache
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\obj\Debug\RNAS.Properties.Resources.resources
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\obj\Debug\RNAS.csproj.GenerateResource.Cache
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\obj\Debug\RNAS.dll
+D:\Trabajos\Mis Proyectos\Clases\RNAS\RNAS\obj\Debug\RNAS.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\bin\Debug\RNAS.dll.config
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\bin\Debug\RNAS.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\bin\Debug\RNAS.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\obj\Debug\RNAS.Properties.Resources.resources
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\obj\Debug\RNAS.csproj.GenerateResource.Cache
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\obj\Debug\RNAS.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\RNAS\RNAS\obj\Debug\RNAS.pdb

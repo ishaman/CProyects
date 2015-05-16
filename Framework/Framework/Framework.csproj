@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6E781154-5095-4B57-BAE1-9EB94A891D08}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SICFramework</RootNamespace>
+    <AssemblyName>SICFramework</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip">
+      <HintPath>bin\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>bin\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>bin\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>bin\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArchivosConfiguracion\ArchivoIni.cs" />
+    <Compile Include="ArchivosConfiguracion\Configuraciones.cs" />
+    <Compile Include="BaseDatos\AccesoDatos.cs" />
+    <Compile Include="BaseDatos\CampoBusqueda.cs" />
+    <Compile Include="BaseDatos\Columna.cs" />
+    <Compile Include="BaseDatos\ConfiguracionDatos.cs" />
+    <Compile Include="BaseDatos\DataAccess.cs" />
+    <Compile Include="BaseDatos\DataAccessOleDb.cs" />
+    <Compile Include="BaseDatos\DataAccessOracle.cs" />
+    <Compile Include="BaseDatos\DataAccessSql.cs" />
+    <Compile Include="BaseDatos\enmAutenticacionSQL.cs" />
+    <Compile Include="BaseDatos\enmCommandType.cs" />
+    <Compile Include="BaseDatos\enmEstado.cs" />
+    <Compile Include="BaseDatos\enmMotor.cs" />
+    <Compile Include="BaseDatos\enmOperaciones.cs" />
+    <Compile Include="BaseDatos\Fila.cs" />
+    <Compile Include="BaseDatos\IBasesDatos.cs" />
+    <Compile Include="BaseDatos\ManejaConexion.cs" />
+    <Compile Include="BaseDatos\ModosDeEdicion.cs" />
+    <Compile Include="BaseDatos\ParametrosSQL.cs" />
+    <Compile Include="BaseDatos\SQLHelper.cs" />
+    <Compile Include="BaseDatos\TablaGenerica.cs" />
+    <Compile Include="BaseDatos\TablaGenericaRegistro.cs" />
+    <Compile Include="BaseDatos\Utilerias.cs" />
+    <Compile Include="Bitacora\ArchivoCarga.cs" />
+    <Compile Include="Bitacora\BitacoraReporte.cs" />
+    <Compile Include="Bitacora\MensajeReporte.cs" />
+    <Compile Include="Bitacora\ParametroProceso.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilerias\Archivo.cs" />
+    <Compile Include="Utilerias\CorreoElectronico.cs" />
+    <Compile Include="Utilerias\CrystalUtilerias.cs" />
+    <Compile Include="Utilerias\Cuatrimestre.cs" />
+    <Compile Include="Utilerias\enmIndiceCombos.cs" />
+    <Compile Include="Utilerias\ManejoArchivos.cs" />
+    <Compile Include="Utilerias\ManejoCadenas.cs" />
+    <Compile Include="Utilerias\ManejoFechas.cs" />
+    <Compile Include="Utilerias\ManejoObjetos.cs" />
+    <Compile Include="Utilerias\ManejoXML.cs" />
+    <Compile Include="Utilerias\MenuToolBar.cs" />
+    <Compile Include="Utilerias\Mes.cs" />
+    <Compile Include="Utilerias\NumeroLetras.cs" />
+    <Compile Include="Utilerias\StringWriterWithEncoding.cs" />
+    <Compile Include="Utilerias\Utf8StringWriter.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

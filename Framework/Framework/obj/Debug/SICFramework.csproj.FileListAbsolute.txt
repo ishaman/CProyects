@@ -1,0 +1,20 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\SICFramework\SICFramework\bin\Debug\SICFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\SICFramework\SICFramework\bin\Debug\SICFramework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\SICFramework\SICFramework\obj\Debug\SICFramework.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\SICFramework\SICFramework\obj\Debug\SICFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Windows\SICFramework\SICFramework\obj\Debug\SICFramework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.dll
+D:\Documentos\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.pdb
+D:\Documentos\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.dll
+D:\Documentos\Visual Studio 2012\Projects\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.pdb
+D:\Trabajos\Mis Proyectos\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.dll
+D:\Trabajos\Mis Proyectos\Clases\SICFramework\SICFramework\bin\Debug\SICFramework.pdb
+D:\Trabajos\Mis Proyectos\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.csprojResolveAssemblyReference.cache
+D:\Trabajos\Mis Proyectos\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.dll
+D:\Trabajos\Mis Proyectos\Clases\SICFramework\SICFramework\obj\Debug\SICFramework.pdb

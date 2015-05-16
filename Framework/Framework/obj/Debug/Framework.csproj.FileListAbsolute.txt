@@ -1,0 +1,9 @@
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\SICFramework.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\SICFramework.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\obj\Debug\SICFramework.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\obj\Debug\SICFramework.pdb
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\Ionic.Zip.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\itextsharp.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\itextsharp.pdfa.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\itextsharp.xtra.dll
+D:\Proyectos VS\Mis Proyectos\VS2013\Clases\Framework\Framework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
