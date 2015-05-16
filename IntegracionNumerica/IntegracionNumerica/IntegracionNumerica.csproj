@@ -140,15 +140,15 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Clases\Framework\Framework\Framework.csproj">
+    <ProjectReference Include="..\..\Framework\Framework\Framework.csproj">
       <Project>{6e781154-5095-4b57-bae1-9eb94a891d08}</Project>
       <Name>Framework</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Clases\GnuplotCSharp-master\GnuplotCSharp.csproj">
+    <ProjectReference Include="..\..\GnuplotCSharp-master\GnuplotCSharp.csproj">
       <Project>{f26034b7-2eb2-49d1-949b-893c74925d53}</Project>
       <Name>GnuplotCSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Clases\RNAS\RNAS\RNAS.csproj">
+    <ProjectReference Include="..\..\RNAS\RNAS\RNAS.csproj">
       <Project>{6e186828-870c-4030-8a83-9bd2a8f81f45}</Project>
       <Name>RNAS</Name>
     </ProjectReference>

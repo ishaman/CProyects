@@ -71,3 +71,22 @@ D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin
 D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
 D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb
 D:\Proyectos VS\Mis Proyectos\VS2013\IntegracionNumerica\IntegracionNumerica\bin\Debug\Ionic.Zip.dll
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe.config
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.exe
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.pdb
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csprojResolveAssemblyReference.cache
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Configuracion.resources
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.FFC.resources
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.IntegracionNumerica.resources
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.Properties.Resources.resources
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\obj\Debug\IntegracionNumerica.csproj.GenerateResource.Cache
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\splotexampledata.txt
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.exe
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\IntegracionNumerica.pdb
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.dll
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.dll
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.dll
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\Ionic.Zip.dll
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\SICFramework.pdb
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\RNAS.pdb
+D:\Repositorios\CProyects\IntegracionNumerica\IntegracionNumerica\bin\Debug\GnuplotCSharp.pdb

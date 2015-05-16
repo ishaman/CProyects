@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegracionNumerica", "Inte
 		{F26034B7-2EB2-49D1-949B-893C74925D53} = {F26034B7-2EB2-49D1-949B-893C74925D53}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "..\Clases\Framework\Framework\Framework.csproj", "{6E781154-5095-4B57-BAE1-9EB94A891D08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "..\Framework\Framework\Framework.csproj", "{6E781154-5095-4B57-BAE1-9EB94A891D08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnuplotCSharp", "..\Clases\GnuplotCSharp-master\GnuplotCSharp.csproj", "{F26034B7-2EB2-49D1-949B-893C74925D53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnuplotCSharp", "..\GnuplotCSharp-master\GnuplotCSharp.csproj", "{F26034B7-2EB2-49D1-949B-893C74925D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNAS", "..\Clases\RNAS\RNAS\RNAS.csproj", "{6E186828-870C-4030-8A83-9BD2A8F81F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNAS", "..\RNAS\RNAS\RNAS.csproj", "{6E186828-870C-4030-8A83-9BD2A8F81F45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
